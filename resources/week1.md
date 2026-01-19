@@ -1,6 +1,6 @@
 # Week 1 - Resurser
 
-[Back to main page :house:](https://github.com/aleylani/statistiska-metoder-ai24)
+[Back to main page :house:](https://github.com/aleylani/statistiska-metoder-ai25)
 
 # Introduktion till statistisk analys
 
