@@ -5,7 +5,7 @@
 # Video
 
 - [Random variables](https://www.youtube.com/watch?v=3v9w79NhsfI&t)
-- [Förväntansvärden](https://www.youtube.com/watch?v=5Yh-9xdJzAs&t)
+- [Förväntansvärden](https://www.youtube.com/watch?v=nKBun2JmqlE)
 - [Binomialfördelning](https://www.youtube.com/watch?v=qIzC1-9PwQo&t)
 - [Poissonfördelning](https://www.youtube.com/watch?v=jmqZG6roVqU)
 - [Hypergeometriska fördelningen (optional)](https://www.youtube.com/watch?v=L2KMttDm3aY&t)
